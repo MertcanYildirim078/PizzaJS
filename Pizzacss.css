@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+body {
+    background-color:yellow;
+  
+}
+
+#btn {
+    color: black;
+    font-family: 'Cookie', 'cursive';
+    font-size: 30px;
+}
+
+:hover#btn {
+    color: red;
+}
+
+:active#btn {
+    color: darkgoldenrod;
+}
+
+.Text {
+    font-family: 'Cookie', 'cursive';
+}
+
+p {
+    font-size: 20px;
+}
+
+span {
+    color:tomato ;
+}
+
+.Aydin {
+    color:aqua
+}
+
+.Mertcan {
+    color: red;
+}
+
+.PizzaPlace {
+    object-fit: contain;  /*Zodat de imagine blijft zo is en niet gescrecht word */
+    width:300px;
+    height: 200px;
+    border-radius: 150px;
+}
+
+.AllText {
+    padding-left: 16em;
+    font-size:2em;
+}
